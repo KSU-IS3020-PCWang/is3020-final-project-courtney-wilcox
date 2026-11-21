@@ -2,10 +2,11 @@
 
 ## Student and Project Information
 
-- Student name:
-- GitHub username:
-- Project title:
-- Application purpose:
+- Student name: Courtney Wilcox
+- GitHub username: courtney-wilcox
+- Project title: Member Match 
+- Application purpose: Creating an application that is able to identify instances
+ of the same person based on confidence levels 
 
 ## How to Run the Application
 
